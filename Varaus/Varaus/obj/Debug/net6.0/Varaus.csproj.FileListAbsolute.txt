@@ -1,0 +1,15 @@
+C:\Users\c165957\varaus\Varaus\Varaus\bin\Debug\net6.0\Varaus.exe
+C:\Users\c165957\varaus\Varaus\Varaus\bin\Debug\net6.0\Varaus.deps.json
+C:\Users\c165957\varaus\Varaus\Varaus\bin\Debug\net6.0\Varaus.runtimeconfig.json
+C:\Users\c165957\varaus\Varaus\Varaus\bin\Debug\net6.0\Varaus.dll
+C:\Users\c165957\varaus\Varaus\Varaus\bin\Debug\net6.0\Varaus.pdb
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\Varaus.csproj.AssemblyReference.cache
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\Varaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\Varaus.AssemblyInfoInputs.cache
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\Varaus.AssemblyInfo.cs
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\Varaus.csproj.CoreCompileInputs.cache
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\Varaus.dll
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\refint\Varaus.dll
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\Varaus.pdb
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\Varaus.genruntimeconfig.cache
+C:\Users\c165957\varaus\Varaus\Varaus\obj\Debug\net6.0\ref\Varaus.dll
